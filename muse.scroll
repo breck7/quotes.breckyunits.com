@@ -19,6 +19,7 @@ css
     .attribution {
       font-style: italic;
       text-align:right;
+      padding-right:4em;
       font-size: 1.8rem;
     }
 %div.paper-container
