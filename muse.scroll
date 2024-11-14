@@ -5,9 +5,6 @@ css
       background-color: #f5f2e9; /* Fallback paper color */
       background-position: 15%;
       min-height: 400px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
       padding: 2rem;
       font-family: "Goudy Old Style", Garamond, "Times New Roman", serif;
     }
