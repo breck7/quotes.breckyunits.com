@@ -21,7 +21,7 @@ css
     }
     .attribution {
       font-style: italic;
-      margin-top: 1rem;
+      margin-top: 2rem;
       font-size: 1.8rem;
     }
 %div.paper-container
