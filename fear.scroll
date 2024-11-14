@@ -1,4 +1,4 @@
-build
+buildHtml
 css
     .paper-container {
       background-image: url('/api/placeholder/800/600');
