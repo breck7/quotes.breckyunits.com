@@ -1,7 +1,7 @@
 buildHtml
 css
     .paper-container {
-      background-image: url('/api/placeholder/800/600');
+      background-image: url('https://hub.scroll.pub/paper/paperbg.jpg');
       background-color: #f5f2e9; /* Fallback paper color */
       min-height: 400px;
       display: flex;
