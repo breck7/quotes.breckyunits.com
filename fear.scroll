@@ -3,6 +3,7 @@ css
     .paper-container {
       background-image: url('https://hub.scroll.pub/paper/paperbg.jpg');
       background-color: #f5f2e9; /* Fallback paper color */
+      background-position: 15%;
       min-height: 400px;
       display: flex;
       justify-content: center;
