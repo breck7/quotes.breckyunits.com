@@ -1,5 +1,5 @@
 .paper-container {
-  background-image: url("paperbg.jpg");
+  /*  background-image: url("paperbg.jpg"); */
   background-color: #f5f2e9; /* Fallback paper color */
   background-position: 15%;
   min-height: 400px;
