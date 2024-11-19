@@ -2,8 +2,8 @@ buildHtml
 style.css
 
 %div.paper-container
-Do you hear them talking of genius, Degna? There is no such thing. Genius, if you like to call it that, is the gift of work continuously applied. That's all it is, as I have proved for myself.
- class quote
-* from My Father Marconi
+...make the irreducible basic elements as simple and as few as possible without having to surrender the adequate representation of a single datum of experience.
+class quote
+* On the Method of Theoretical Physics Albert Einstein
  class attribution
- underline My Father Marconi
+ underline On the Method of Theoretical Physics
