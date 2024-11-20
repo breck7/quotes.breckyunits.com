@@ -1,8 +1,5 @@
-buildHtml
-style.css
-
-%div.paper-container
+quote.scroll
 What I cannot create, I do not understand.
  class quote
-* Richard Feynman
+Richard Feynman
  class attribution
