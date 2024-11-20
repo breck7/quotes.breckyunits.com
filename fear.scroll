@@ -1,5 +1,5 @@
-buildHtml
-style.css
-%div.paper-container
-%div.quote Nothing to fear but fear itself.
-%div.attribution -FDR
+quote.scroll
+Nothing to fear but fear itself.
+ class quote
+-FDR
+ class attribution
