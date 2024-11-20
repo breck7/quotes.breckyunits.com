@@ -3,4 +3,4 @@ buildHtml
 tags Quote
 style.css
 
-%div.paper-container
+<div class="paper-container">
