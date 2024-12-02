@@ -2,5 +2,6 @@ importOnly
 buildHtml
 tags Quote
 style.css
+keyboardNav
 
 <div class="paper-container">
