@@ -1,4 +1,4 @@
 buildHtml
 theme roboto
 
-printSnippets Quote
+printShortSnippets Quote
