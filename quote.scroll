@@ -1,7 +1,7 @@
 importOnly
 buildHtml
 tags Quote
-editBaseUrl /edit.html
+editBaseUrl /edit.html?fileName=
 editButton
 style.css
 keyboardNav
