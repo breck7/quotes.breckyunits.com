@@ -6,3 +6,4 @@
 *.js
 *.csv
 requests.scroll
+.*
