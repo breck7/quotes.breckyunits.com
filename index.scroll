@@ -1,4 +1,9 @@
 buildHtml
 theme roboto
 
+center
+Search
+ search.html
+
 printShortSnippets Quote
+
